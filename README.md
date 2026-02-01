@@ -7,7 +7,6 @@
 
 ---
 
-- 🌱 Currently learning **Docker, RESTful APIs, Kubernetes**
 - 👯 Looking to collaborate on **meaningful open-source projects**
 - 💬 Ask me about **Flutter, Spring Boot, REST APIs, Clean Architecture**
 - 📫 Reach me at **abhijeethasabe@gmail.com**
