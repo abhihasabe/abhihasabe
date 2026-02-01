@@ -8,7 +8,7 @@
 ---
 
 - 👯 Looking to collaborate on **meaningful open-source projects**
-- 💬 Ask me about **Flutter, Spring Boot, REST APIs, Clean Architecture**
+- 💬 Ask me about **Flutter, Node Express, PHP, REST APIs, Clean Architecture**
 - 📫 Reach me at **abhijeethasabe@gmail.com**
 - ⚡ Fun fact: **Debugging is my cardio 😄**
 
